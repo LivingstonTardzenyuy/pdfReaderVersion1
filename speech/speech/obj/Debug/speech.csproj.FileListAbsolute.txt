@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\New projects\speech\speech\bin\Debug\speech.exe.config
+C:\Users\User\Desktop\New projects\speech\speech\bin\Debug\speech.exe
+C:\Users\User\Desktop\New projects\speech\speech\bin\Debug\speech.pdb
+C:\Users\User\Desktop\New projects\speech\speech\obj\Debug\speech.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New projects\speech\speech\obj\Debug\speech.Form1.resources
+C:\Users\User\Desktop\New projects\speech\speech\obj\Debug\speech.Properties.Resources.resources
+C:\Users\User\Desktop\New projects\speech\speech\obj\Debug\speech.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\New projects\speech\speech\obj\Debug\speech.exe
+C:\Users\User\Desktop\New projects\speech\speech\obj\Debug\speech.pdb
+C:\Users\User\Desktop\New projects\speech\speech\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\New projects\speech\speech\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\New projects\speech\speech\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\New projects\speech\speech\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\New projects\speech\speech\obj\Debug\speech.csproj.ResolveComReference.cache

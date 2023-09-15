@@ -1,1 +1,1 @@
-# pdfReaderVersion1 and it will work well
+# pdfReaderVersion1 and it will work well.
